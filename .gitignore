@@ -1,0 +1,18 @@
+# Virtual environment
+venv/
+slm-env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+
+# Results / logs (optional but recommended)
+results.csv
+results/
+*.log
+
+# System files
+.DS_Store
