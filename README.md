@@ -14,7 +14,7 @@ cd local-slm-benchmark
 ```bash
 python -m venv slm-env
 source slm-env/bin/activate      # Mac/Linux
-slm-env\Scripts\activate         # Windows
+slm-env\Scripts\activate  # Windows
 ```
 
 ### 3. Install dependencies
