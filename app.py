@@ -76,7 +76,7 @@ import plotly.express as px
 # ---------------- UI SETUP ----------------
 st.set_page_config(page_title="SLM Benchmark Dashboard", layout="wide")
 
-st.title("🧠 Local SLM Benchmark Dashboard")
+st.title("Local SLM Benchmark Dashboard")
 st.caption("Compare latency, throughput, and outputs of local LLMs running via Ollama")
 
 # ---------------- MODELS ----------------
@@ -88,7 +88,7 @@ prompt = st.text_area(
     "Explain what an AI model is in simple words"
 )
 
-run_all = st.button("🚀 Run Benchmark on All Models")
+run_all = st.button("Run Benchmark on All Models")
 
 # ---------------- RESULTS ----------------
 results = []
@@ -123,7 +123,7 @@ if run_all:
     df = pd.DataFrame(results)
 
     # ---------------- TABLE ----------------
-    st.subheader("📊 Benchmark Results Table")
+    st.subheader("Benchmark Results Table")
     st.dataframe(df[["model", "time_sec", "tokens_est", "tokens_per_sec"]])
 
     # ---------------- CHART 1: SPEED ----------------
