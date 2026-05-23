@@ -1,4 +1,4 @@
-# 🧠 Local SLM Benchmark Dashboard
+# Local SLM Benchmark Dashboard
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red.svg)
