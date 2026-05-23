@@ -1,3 +1,10 @@
+# Local SLM Benchmark Dashboard
+
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red.svg)
+![Ollama](https://img.shields.io/badge/LLMs-Ollama-black.svg)
+![Status](https://img.shields.io/badge/Status-Active-success.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 ## Installation
 
