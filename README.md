@@ -5,6 +5,7 @@
 ![Ollama](https://img.shields.io/badge/LLMs-Ollama-black.svg)
 ![Status](https://img.shields.io/badge/Status-Active-success.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
+![SLM Benchmark Dashboard](assets/banner.png)
 
 ## Installation
 
